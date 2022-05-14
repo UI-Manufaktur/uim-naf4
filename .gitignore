@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/uim-naf4
+uim-naf4.so
+uim-naf4.dylib
+uim-naf4.dll
+uim-naf4.a
+uim-naf4.lib
+uim-naf4-test-*
+*.exe
+*.o
+*.obj
+*.lst
